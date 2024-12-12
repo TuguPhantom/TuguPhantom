@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer from **Semarang, Indone
 - 💡 Inspired by Pak Arimurti, my favorite teacher, to strive for success in all things.  
 
 ## 📫 Connect With Me  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **Email**: [bapakuhacker@proton.mail](mailto:bapakuhacker@proton.mail)  
 
 Feel free to explore my repositories, and let’s build something amazing together! 🚀  
